@@ -169,4 +169,3 @@ The Firewall Configuration Project is aimed at setting up a secure network envir
 ## Conclusion 
 
 This project provided hands-on experience in configuring a firewall using UFW on Ubuntu. Key outcomes include securing network traffic, managing rules for services and ports, and validating configurations using tools like nmap. The setup strengthens the system’s security, highlighting the importance of firewalls as a first line of defense against cyber threats.
-![image](https://github.com/user-attachments/assets/e32eeea9-52ee-4030-9dc0-344d3bb6f340)
